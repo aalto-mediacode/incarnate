@@ -2,7 +2,7 @@
 //  coordinator.cpp
 //  incarnate
 //
-//  Created by Teodosin Viktor on 22/02/2023.
+//  Created by Teodosin on 22/02/2023.
 //
 
 #include "coordinator.h"
