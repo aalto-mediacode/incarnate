@@ -27,5 +27,11 @@ This project was created as part of a week-long workshop using openFrameworks.
 * Deleting layers.
 * Audio reactivity. There's a soundPlayer class with a simple visualiser, but it's not connected to anything else so it's commented out.
 
+## How to run
 
+* Download openFrameworks (version used for development was 0.11.2, on MacOS)
+* Use the project generator to create a new app with the "ofxGui" addon
+* Place the files in this "src" folder in the "src" folder of the app.
+
+That should be enough to make it run. 
 
